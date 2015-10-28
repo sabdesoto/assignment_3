@@ -4,7 +4,7 @@
 
 ## Instructions
 
-1. To start, [**fork**](https://guides.github.com/activities/forking/) the [repository](https://github.com/PHY3009/assignment_3).
+1. To start, [**fork**](https://guides.github.com/activities/forking/) this [repository](https://github.com/PHY3009/assignment_3) if you want to work in the open, or got to your private copy of the repo on Github under the [PHY3009](https://github.com/PHY3009) organization.
 
 2. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 
